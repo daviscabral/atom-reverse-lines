@@ -1,0 +1,24 @@
+{
+  "name": "reverse-lines",
+  "version": "0.0.0",
+  "description": "Reverse the order of selected lines in Atom (or the full file).",
+  "engines": {
+    "atom": ">=1.4.0 <2.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviscabral/atom-reverse-lines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daviscabral/atom-reverse-lines/issues"
+  },
+  "activationCommands": {
+    "atom-text-editor": [
+      "reverse-lines"
+    ]
+  },
+  "homepage": "https://github.com/daviscabral/atom-reverse-lines#readme",
+  "license": "MIT",
+  "main": "./lib/reverse-lines"
+}

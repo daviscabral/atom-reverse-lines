@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Edit'
+    'submenu': [
+      'label': 'Lines'
+      'submenu': [
+        { 'label': 'Reverse Lines', 'command': 'reverse-lines' }
+      ]
+    ]
+  }
+]
