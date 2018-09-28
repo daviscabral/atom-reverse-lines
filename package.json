@@ -1,6 +1,6 @@
 {
   "name": "reverse-lines",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reverse the order of selected lines in Atom (or the full file).",
   "engines": {
     "atom": ">=1.4.0 <2.0.0"
