@@ -1,3 +1,5 @@
+# [DEPRECATED] Atom `sort-lines` has now this same feature and there is no reason to keep this
+
 # Reverse Lines Package [![Build Status](https://travis-ci.org/daviscabral/atom-reverse-lines.svg?branch=master)](https://travis-ci.org/daviscabral/atom-reverse-lines)
 
 Reverse the order of selected lines in Atom (or the full file).
